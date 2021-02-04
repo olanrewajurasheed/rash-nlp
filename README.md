@@ -1,5 +1,3 @@
-# rash-nlp
-
 ## Description
 
 This is a mini Natural Language Processing (NLP) web-app built with streamlit.
