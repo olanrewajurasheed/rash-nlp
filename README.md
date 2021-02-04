@@ -7,7 +7,7 @@ This is a mini Natural Language Processing (NLP) web-app built with streamlit.
 Link to the app: https://rash-nlp.herokuapp.com/
 
 ## Tokenization
-![alt text](https://github.com/[olanrewajurasheed]/[rash-nlp]/blob/[main]/Images/image%2002.JPG?raw=true)
+![plot](./Images/image%2002.JPG)
 
 ## Part-of-Speech Tagging
 https://github.com/olanrewajurasheed/rash-nlp/blob/main/Images/image%2005.JPG
