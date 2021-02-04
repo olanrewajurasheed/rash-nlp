@@ -23,5 +23,7 @@ Link : https://rash-nlp.herokuapp.com/
 
 ## Word Frequency
 ![plot](./Images/image%2009.JPG)
+
+...
 ![plot](./Images/image%20011.JPG)
 
