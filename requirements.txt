@@ -1,0 +1,10 @@
+pandas==1.0.1
+summa==1.2.0
+nltk==3.4.5
+seaborn==0.10.0
+spacy==2.3.2
+goslate==1.5.1
+textblob==0.15.3
+matplotlib==3.1.3
+gensim==3.8.3
+streamlit==0.75.0

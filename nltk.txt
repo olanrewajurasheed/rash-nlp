@@ -1,0 +1,7 @@
+stopwords
+vader_lexicon
+punkt
+wordnet
+averaged_perceptron_tagger
+conll2000
+brown
