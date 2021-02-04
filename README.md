@@ -25,5 +25,5 @@ Link : https://rash-nlp.herokuapp.com/
 ![plot](./Images/image%2009.JPG)
 
 ## ..
-![plot](./Images/image%20011.JPG)
+![plot](./Images/image%2011.JPG)
 
