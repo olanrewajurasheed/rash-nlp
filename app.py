@@ -16,7 +16,6 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 #import necessary NLP libraries
 import nltk
 import textblob
-import goslate
 from textblob import TextBlob
 from nltk import ngrams 
 from nltk.corpus import stopwords
@@ -214,8 +213,8 @@ def main():
 		try:
 			lang = list(lang_dict.keys())
 			activity = st.selectbox("Language", lang)
-			gs = goslate.Goslate()
-			st.write(gs.translate(str(text), lang_dict[activity]))
+			trans = text.translate(to=lang_dict[activity])
+			st.write(trans)
 		except:
 			st.markdown('*Error, check your text!*')
 			
